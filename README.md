@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Django, CI/CD**
 
-- 📫 How to reach me **https://www.linkedin.com/in/valentin-puillandre-2ab40a135/**
+- 📫 How to reach me **[linkedin](https://www.linkedin.com/in/valentin-puillandre-2ab40a135/)**
 
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/valentin-puillandre-2ab40a135/)
 
