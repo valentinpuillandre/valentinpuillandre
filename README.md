@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/valentin-puillandre-2ab40a135/**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/valentin-puillandre-2ab40a135/](https://www.linkedin.com/in/valentin-puillandre-2ab40a135/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/valentin-puillandre-2ab40a135/)
 
 - ⚡ Fun fact **I love sport, movies and programming**
 
