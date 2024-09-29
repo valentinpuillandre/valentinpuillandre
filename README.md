@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valentin</h1>
+<h1 align="center">Hi, I'm Valentin</h1>
 <h3 align="center">A developer from Paris</h3>
 
 - 🔭 I’m currently working on **Carbon analyzer project**
