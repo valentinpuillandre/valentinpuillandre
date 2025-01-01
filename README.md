@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Carbon analyzer project**
 
-- 🌱 I’m currently learning **Python, Django, CI/CD**
+- 🌱 I’m currently learning **Python, Django, CI/CD, Devops**
 
 - 📫 How to reach me **[linkedin](https://www.linkedin.com/in/valentin-puillandre-2ab40a135/)**
 
